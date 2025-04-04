@@ -47,8 +47,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - (now)* 
+  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
+  Master Degree in Signal and Information Processing.
+
+- *2019.09 - 2023.06* 
+  The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
+  Bachelor Degree in Information and Communication Engineering.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
