@@ -96,3 +96,6 @@ Single-photon 3D imaging with a multi-stage network
 
 # 💻 Internships
 - *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China.
+
+# 🧑‍🤝‍🧑 IMy Friends and Collaborators
+- [Xin Lin](https://linxin0.github.io/) , [Xiang Chen](https://cschenxiang.github.io/) , [Jingyuan Xia](https://www.xiajingyuan.com/) , [Shuaifeng Zhi](https://shuaifengzhi.com/)
