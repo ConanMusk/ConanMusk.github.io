@@ -43,8 +43,11 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Academic Scholarship at NUDT.
+- *2023* Academic Scholarship at NUDT.
+- *2023* Outstanding Graduates at NJUPT.
+- *2019* First Class Scholarship at NJUPT.
+- *2019* Merit Student at NJUPT.
 
 # 📖 Educations
 - *2023.09 - (now)* 
@@ -56,9 +59,11 @@ My research interest includes neural machine translation and computer vision. I 
   Bachelor Degree in Information and Communication Engineering.
 
 # 🏆 Competition
-- *2020* 🥈 Second Prize in the 11th Lanqiao Cup National IT and Software Professionals Competition at NJUPT. 
-- *2020* 🥈 Second Prize in the 17th Jiangsu Provincial Higher Mathematics Competition at NJUPT.
-- 
+- *2024* 🥇 1st Prize of Hunan Provincial Undergraduate Electronic Design Contest.
+- *2021* 🥈 2nd Prize of National Undergraduate Electronic Design Contest.
+- *2020* 🥈 2nd Prize of 11th LanqSecond Prize in the 17th Jiangsu Provincial Higher Mathematics Competition at NJUPT.iao Cup National IT and Software Professionals Competition. 
+- *2020* 🥈 2nd Prize of 17th Jiangsu Provinat NJUPT.iao Cup National IT and Software Professionals Competition at NJUPTcial Higher Mathematics Competition.
+ 
 
 # 💻 Internships
 - *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China.
