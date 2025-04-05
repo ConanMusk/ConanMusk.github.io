@@ -54,9 +54,9 @@ Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
 
 Single-photon 3D imaging with a multi-stage network
 
-[**Yinghao Chen**$^{*}$](https://conanmusk.github.io/),Jian Li,Shipeng Xie,[Qin Wang$^{\dagger}$](https://scie.njupt.edu.cn/)
+[**Yinghao Chen**$^{*}$](https://conanmusk.github.io/),Jian Li$^{*}$,Shipeng Xie,[Qin Wang$^{\dagger}$](https://scie.njupt.edu.cn/)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
 </div>
 </div>
