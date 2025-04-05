@@ -63,15 +63,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* 🥈 2nd Prize of National Undergraduate Electronic Design Contest.
 - *2020* 🥈 2nd Prize of 11th Lanqiao Cup National IT and Software Professionals Competition at NJUPT.
 - *2020* 🥈 2nd Prize of 17th Jiangsu Provinat NJUPT.iao Cup National IT and Software Professionals Competition at NJUPTcial Higher Mathematics Competition.
+
 # 🏃 Sports 
-- 🥇 
-- 🏸 Badminton was my favorite sport in my final year of university, and I cherish the memories of playing it with Weimeng Jiao and Shuxin Lu.
-- 🏓 Table tennis is one of my strongest sports, and I fell in love with it in high school.
+- 🏸 Badminton was my favorite sport in my final year of university, and I cherish the memories of playing it with Weimeng Jiao and Shuxin Lu.🥰
+- 🏓 Table tennis is one of my strongest sports, and I fell in love with it in high school. 😎
 - 🏊 I learned breaststroke at NUDT, and I plan to learn freestyle next.
-- 🚴
-- 🏀
-- 🎱
-- 🥋
-- 🛌
+- 🚴 Cycling was one of my ways to relax in high school, as it allowed me to feel the breeze. I have a road bike and a mountain bike.
+- 🏀 Basketball is one of the sports I enjoy, and I’m a huge fan of Stephen Curry 🤩, a player from the Golden State Warriors.
+- 🎱 Billiards is an elegant sport, but for me, it's just about hitting the balls with a cue. 🏳️
+- 🥋 I studied Taekwondo techniques during my undergraduate years, and my instructor was [Jie Lei](https://baike.baidu.com/item/%E9%9B%B7%E6%B4%81/56692), a Chinese female Taekwondo athlete.
+- 🛌 Undoubtedly, this is one of my favorite sports, and I spend 9-10 hours a day engaging in it. 😴 🤣
 # 💻 Internships
 - *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China.
