@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications in 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Low-level Vision, Multi-modal image/video generation. 
+
 
 
 # 🔥 News
@@ -62,16 +63,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024* 🥇 1st Prize of Hunan Provincial Undergraduate Electronic Design Contest.
 - *2021* 🥈 2nd Prize of National Undergraduate Electronic Design Contest.
 - *2020* 🥈 2nd Prize of 11th Lanqiao Cup National IT and Software Professionals Competition at NJUPT.
-- *2020* 🥈 2nd Prize of 17th Jiangsu Provinat NJUPT.iao Cup National IT and Software Professionals Competition at NJUPTcial Higher Mathematics Competition.
+- *2020* 🥈 2nd Prize of 17th Jiangsu Provincial Higher Mathematics Competition at NJUPT.
 
 # 🏃 Sports 
 - 🏸 Badminton was my favorite sport in my final year of university, and I cherish the memories of playing it with Weimeng Jiao and Shuxin Lu.🥰
 - 🏓 Table tennis is one of my strongest sports, and I fell in love with it in high school. 😎
 - 🏊 I learned breaststroke at NUDT, and I plan to learn freestyle next.
 - 🚴 Cycling was one of my ways to relax in high school, as it allowed me to feel the breeze. I have a road bike and a mountain bike.
-- 🏀 Basketball is one of the sports I enjoy, and I’m a huge fan of Stephen Curry 🤩, a player from the Golden State Warriors.
+- 🏀 Basketball is one of the sports I enjoy, and I'm a huge fan of Stephen Curry 🤩, a player from the Golden State Warriors.
 - 🎱 Billiards is an elegant sport, but for me, it's just about hitting the balls with a cue. 🏳️
 - 🥋 I studied Taekwondo techniques during my undergraduate years, and my instructor was [Jie Lei](https://baike.baidu.com/item/%E9%9B%B7%E6%B4%81/56692), a Chinese female Taekwondo athlete.
 - 🛌 Undoubtedly, this is one of my favorite sports, and I spend 9-10 hours a day engaging in it. 😴 🤣
+
 # 💻 Internships
 - *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China.
