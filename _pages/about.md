@@ -21,8 +21,7 @@ I am a second-year master's student at the School of Electronic Science, Nationa
 
 My research interest includes **Low-level Vision**, **Multi-modal image/video generation**,**3DGS**.
 
-<font color=Orange> I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.</font>
-
+<font color=Orange> I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.</font><br/>
 <font color=YellowGreen>I am currently looking for a PhD advisor for the fall of 2026.</font>
 
 
