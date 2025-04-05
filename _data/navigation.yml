@@ -15,8 +15,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Competition"
+    url: "/#-competition"
+
+  - title: "Sports"
+    url: "/#-Sports"
 
   - title: "Internships"
     url: "/#-internships"
