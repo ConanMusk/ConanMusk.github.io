@@ -22,7 +22,6 @@ I am a second-year master's student at the School of Electronic Science, Nationa
 My research interest includes **Low-level Vision**, **Multi-modal image/video generation**,**3DGS**.
 
 <font color=Orange> I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.</font>
-
 <font color=YellowGreen>I am currently looking for a PhD advisor for the fall of 2026.</font>
 
 
@@ -31,8 +30,8 @@ My research interest includes **Low-level Vision**, **Multi-modal image/video ge
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **ICCV 2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process!
+- *2022.06*: &nbsp;🎉🎉 That's great news! "[**Single-photon 3D imaging with a multi-stage network**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509)" being accepted by the optical journal **Optics Express**! A special thanks to Professor [Qin Wang](https://quantum.njupt.edu.cn/11725/list.htm)  and Professor Li Jian for their guidance.
 
 # 📝 Publications 
 
