@@ -36,12 +36,12 @@ My research interest includes **Low-level Vision**, **Multi-modal image/video ge
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 submitted</div><img src='images/600.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge">ICCV 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
 
-[**Yinghao Chen**](https://conanmusk.github.io/),[Xiang Chen](https://cschenxiang.github.io/),Yaowen Fu,[Jiangyuan Xia^†^](https://www.xiajingyuan.com/)
+[**Yinghao Chen**](https://conanmusk.github.io/),[Xiang Chen](https://cschenxiang.github.io/),Yaowen Fu,[Jiangyuan Xia^{\dagger}](https://www.xiajingyuan.com/)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
