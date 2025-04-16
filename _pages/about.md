@@ -31,12 +31,12 @@ Hera is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbn
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **ICCV 2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process!
+- *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process!
 - *2022.06*: &nbsp;🎉🎉 That's great news! "[**Single-photon 3D imaging with a multi-stage network**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509)" being accepted by the optical journal **Optics Express**! A special thanks to Professor [Qin Wang](https://quantum.njupt.edu.cn/11725/list.htm)  and Professor Li Jian for their guidance.
 
 # 📝 Publications 
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge">ICCV 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
