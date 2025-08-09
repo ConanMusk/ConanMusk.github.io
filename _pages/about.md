@@ -23,7 +23,7 @@ My research interest includes **Low-level Vision**, **Multi-modal image/video ge
 
 <span style="color:Orange;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
 
-<span style="color:PaleVioletRed;">**I am currently looking for a PhD advisor for the fall of 2026**.
+<!-- <span style="color:PaleVioletRed;">**I am currently looking for a PhD advisor for the fall of 2026**. -->
 
 Hera is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0)
 
