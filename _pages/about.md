@@ -41,7 +41,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbn
 
 DART: Diffusion Acceleration via Rectified Temporal Quantization
 
-[**Yinghao Chen**](https://conanmusk.github.io/), [Xiang Chen](https://cschenxiang.github.io/), Yaowen Fu, [Jingyuan Xia$^{\dagger}$](https://www.xiajingyuan.com/)
+[**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
 
 **Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
@@ -53,8 +53,7 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 
 Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
 
-[**Yinghao Chen**](https://conanmusk.github.io/), [Xiang Chen](https://cschenxiang.github.io/), Yaowen Fu, [Jingyuan Xia$^{\dagger}$](https://www.xiajingyuan.com/)
-
+[**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm), [Ziyang Yan](https://ziyangyan.github.io/), [Xiang Chen](https://cschenxiang.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
 **Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
 </div>
