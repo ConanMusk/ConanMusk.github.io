@@ -36,10 +36,10 @@ Here is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbn
 
 # 📝 Publications 
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
+DART: Diffusion Acceleration via Rectified Temporal Quantization
 
 [**Yinghao Chen**](https://conanmusk.github.io/), [Xiang Chen](https://cschenxiang.github.io/), Yaowen Fu, [Jingyuan Xia$^{\dagger}$](https://www.xiajingyuan.com/)
 
@@ -48,10 +48,10 @@ Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
 </div>
 </div>
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Derain,jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
+Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
 
 [**Yinghao Chen**](https://conanmusk.github.io/), [Xiang Chen](https://cschenxiang.github.io/), Yaowen Fu, [Jingyuan Xia$^{\dagger}$](https://www.xiajingyuan.com/)
 
