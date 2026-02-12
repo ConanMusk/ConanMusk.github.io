@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>``
 
-I am a third-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Yaowen Fu] and [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
+I am a third-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Yaowen Fu](https://ieeexplore.ieee.org/author/37530023800) and [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
 
 My research interest includes **Low-level Vision**, **Multi-modal image/video generation**,**Inverse Problems** and **Computational Photography**.
 
@@ -31,10 +31,22 @@ Here is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbn
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process!
+<!-- - *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process! -->
 - *2022.06*: &nbsp;🎉🎉 That's great news! "[**Single-photon 3D imaging with a multi-stage network**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509)" being accepted by the optical journal **Optics Express**! A special thanks to Professor [Qin Wang](https://quantum.njupt.edu.cn/11725/list.htm)  and Professor Li Jian for their guidance.
 
 # 📝 Publications 
+
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unpaired Deep Image Deraining Using VLM-Guided Self-Boosting Learning
+
+[**Yinghao Chen**](https://conanmusk.github.io/), [Xiang Chen](https://cschenxiang.github.io/), Yaowen Fu, [Jingyuan Xia$^{\dagger}$](https://www.xiajingyuan.com/)
+
+**Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
+</div>
+</div>
 
 <div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/VSBL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
