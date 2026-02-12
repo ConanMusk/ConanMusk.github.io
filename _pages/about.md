@@ -48,7 +48,7 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 </div>
 </div>
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Derain,jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Derain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
