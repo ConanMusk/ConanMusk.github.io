@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yinghao Chen2 - Homepage"
+title: "Yinghao Chen - Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
