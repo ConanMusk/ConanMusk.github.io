@@ -15,17 +15,17 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>``
 
-I am a second-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
+I am a third-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Yaowen Fu] and [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
 
-My research interest includes **Low-level Vision**, **Multi-modal image/video generation**,**Inverse Problems**.
+My research interest includes **Low-level Vision**, **Multi-modal image/video generation**,**Inverse Problems** and **Computational Photography**.
 
-<span style="color:Orange;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email.
+<!-- <span style="color:Orange;">I am actively seeking for research internship opportunities in either academia or industry, please feel free to contact me via email. -->
 
-<!-- <span style="color:PaleVioletRed;">**I am currently looking for a PhD advisor for the fall of 2026**. -->
+<span style="color:PaleVioletRed;">**I am currently looking for a PhD advisor for the Spring of 2027**.
 
-Hera is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0)
+Here is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0https://www.dropbox.com/scl/fi/rgaeha27pgjsbnwycw88o/.pdf?rlkey=m9qrpzms57ibl0msgo5e5dn4z&st=hi5ka6kd&dl=0)
 
 
 
