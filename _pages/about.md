@@ -77,6 +77,7 @@ Single-photon 3D imaging with a multi-stage network
 
 
 # 🎖 Honors and Awards
+- *2025* National Defense Science and Technology Innovation Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2024* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2023* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2023* Outstanding Graduates at [NJUPT](https://scie.njupt.edu.cn/).
@@ -84,7 +85,7 @@ Single-photon 3D imaging with a multi-stage network
 - *2019* Merit Student at [NJUPT](https://scie.njupt.edu.cn/).
 
 # 📖 Educations
-- *2023.09 - (now)* 
+- *2023.09 - (2026.06)* 
   School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
   Master Degree in Signal and Information Processing.
 
@@ -93,6 +94,8 @@ Single-photon 3D imaging with a multi-stage network
   Bachelor Degree in Information and Communication Engineering.
 
 # 🏆 Competition
+- *2025* 🥇 1st Prize of Huawei Cup Artificial Intelligence Innovation Contest.
+- *2025* 🥇 1st Prize of Central China Division of the China Graduate Electronic Design Contest.
 - *2024* 🥇 1st Prize of Hunan Provincial Undergraduate Electronic Design Contest.
 - *2021* 🥈 2nd Prize of National Undergraduate Electronic Design Contest.
 - *2020* 🥈 2nd Prize of 11th Lanqiao Cup National IT and Software Professionals Competition at NJUPT.
