@@ -94,9 +94,9 @@ Single-photon 3D imaging with a multi-stage network
   Bachelor Degree in Information and Communication Engineering.
 
 # 🏆 Competition
-- *2025* 🥇 1st Prize of Huawei Cup Artificial Intelligence Innovation Contest.
-- *2025* 🥇 1st Prize of Central China Division of the China Graduate Electronic Design Contest.
-- *2024* 🥇 1st Prize of Hunan Provincial Undergraduate Electronic Design Contest.
+- *2025* 🥇 [1st Prize of Huawei Cup Artificial Intelligence Innovation Contest.](https://www.jianguoyun.com/p/DeSV4eUQmaWFDhi06pwGIAA)
+- *2025* 🥇 [1st Prize of Central China Division of the China Graduate Electronic Design Contest.](https://www.jianguoyun.com/p/DTvSuSIQmaWFDhix6pwGIAA)
+- *2024* 🥇 [1st Prize of Hunan Provincial Undergraduate Electronic Design Contest.](https://www.jianguoyun.com/p/DbCnjNkQmaWFDhi16pwGIAA)
 - *2021* 🥈 2nd Prize of National Undergraduate Electronic Design Contest.
 - *2020* 🥈 2nd Prize of 11th Lanqiao Cup National IT and Software Professionals Competition at NJUPT.
 - *2020* 🥈 2nd Prize of 17th Jiangsu Provincial Higher Mathematics Competition at NJUPT.
