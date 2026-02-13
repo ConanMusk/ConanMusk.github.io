@@ -25,7 +25,8 @@ My research interest includes **Low-level Vision**, **Multi-modal image/video ge
 
 <span style="color:PaleVioletRed;">**I am currently looking for a PhD advisor for the Spring of 2027**.
 
-Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ7JwGIAA0)
+Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ7JwGIAA)
+
 
 
 
