@@ -36,7 +36,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.dropbox.com/scl/fi/rgaeha27pgjsbn
 
 # 📝 Publications 
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DART: Diffusion Acceleration via Rectified Temporal Quantization
@@ -44,11 +44,12 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
 
 **Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
+- Diffusion Model Acceleration.
+- AIGC
 </div>
 </div>
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2025 submitted</div><img src='images/Derain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Derain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
@@ -56,6 +57,7 @@ Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
 [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm), [Ziyang Yan](https://ziyangyan.github.io/), [Xiang Chen](https://cschenxiang.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
 **Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Using vision-language large models to assist unsupervised deraining networks in learning real deraining knowledge.
+- Low Level
 </div>
 </div>
 
@@ -65,10 +67,11 @@ Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
 
 Single-photon 3D imaging with a multi-stage network
 
-[**Yinghao Chen**$^{*}$](https://conanmusk.github.io/), Jian Li $^{\*}$, Shipeng Xie, [Qin Wang$^{\dagger}$](https://scie.njupt.edu.cn/)
+[**Yinghao Chen**$^{*}$](https://conanmusk.github.io/), Jian Li $^{\*}$, Shipeng Xie, [Prof.Qin Wang$^{\dagger}$](https://scie.njupt.edu.cn/)
 
 [**PDF**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A multi-stage single-photon long-distance low signal-to-noise ratio deep learning method has been developed.
+- Single Photon Image
 </div>
 </div>
 
