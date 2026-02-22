@@ -41,7 +41,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
-      <div class="badge" style="position: absolute; top: 0; left: 0;">2026 submitted</div>
+      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
       <img src='images/NUDT-logo.png' alt="sym" style="width: 100%; display: block;">
     </div>
   </div>
@@ -61,7 +61,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
-      <div class="badge" style="position: absolute; top: 0; left: 0;">2026 submitted</div>
+      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
       <img src='images/NJUPT-logo.png' alt="sym" style="width: 100%; display: block;">
     </div>
   </div>
