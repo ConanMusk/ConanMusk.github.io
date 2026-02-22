@@ -35,50 +35,6 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
 <!-- - *2025.03*: &nbsp;🎉🎉 That's great news! Congratulations on your work being successfully submitted to **2025** for the unsupervised de-raining task with unpaired data. Best of luck with the review process! -->
 - *2022.06*: &nbsp;🎉🎉 That's great news! "[**Single-photon 3D imaging with a multi-stage network**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509)" being accepted by the optical journal **Optics Express**! A special thanks to Professor [Qin Wang](https://quantum.njupt.edu.cn/11725/list.htm)  and Professor Li Jian for their guidance.
 
-# 📖 Educations
-
-<div class='paper-box' style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  
-  <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
-    <div style="position: relative;">
-      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NUDT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
-    </div>
-  </div>
-
-  <div class='paper-box-text' style="flex: 1;" markdown="1">
-
- *2023.09 - (2026.06)* 
-
-  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
-
-  Master Degree in Signal and Information Processing.
-
-  </div>
-</div>
-
-<div class='paper-box' style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  
-  <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
-    <div style="position: relative;">
-      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NJUPT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
-    </div>
-  </div>
-
-  <div class='paper-box-text' style="flex: 1;" markdown="1">
-
-  *2019.09 - 2023.06* 
-
-  The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)).
-
-  Bachelor Degree in Information and Communication Engineering.
-
-  </div>
-</div>
-
-
-
 # 📝 Publications 
 
 <div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
@@ -129,6 +85,14 @@ Single-photon 3D imaging with a multi-stage network
 - *2019* First Class Scholarship at [NJUPT](https://scie.njupt.edu.cn/).
 - *2019* Merit Student at [NJUPT](https://scie.njupt.edu.cn/).
 
+# 📖 Educations
+- *2023.09 - (2026.06)* 
+  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
+  Master Degree in Signal and Information Processing.
+
+- *2019.09 - 2023.06* 
+  The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
+  Bachelor Degree in Information and Communication Engineering.
 
 # 🏆 Competition
 - *2025* 🥇 [1st Prize of Huawei Cup Artificial Intelligence Innovation Contest.](https://www.jianguoyun.com/p/DeSV4eUQmaWFDhi06pwGIAA)
