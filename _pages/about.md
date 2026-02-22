@@ -96,7 +96,7 @@ Single-photon 3D imaging with a multi-stage network
 </div>
 </div>
 
-# ![alt text](image.png) Honors and Awards 
+# 🎖️ Honors and Awards 
 - *2025* National Defense Science and Technology Innovation Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2024* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2023* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
