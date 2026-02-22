@@ -77,6 +77,26 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+  <tr>
+    <td>
+      <h1>Research Experience</h1>
+    </td>
+  </tr>
+</tbody></table>
+<table width="100%" align="center" border="0" cellpadding="20"><tbody>
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <img src="images/NJUPT-logo.png" style="width:100%;text-align: center;" ></td>
+    <td width="75%" valign="center">
+      <h3>ENCODE Lab, Westlake University</h4>
+      <p>2024.05 ~ Present</p>
+      <p>Visiting Student, supervised by Prof. <a href="https://huanwang.tech/">Huan Wang</a></p>
+      Conducted research on on-device text-to-image (T2I) diffusion models, focusing on optimizing the performance of neural networks on mobile devices.
+      <br>
+    </td>
+  </tr>
+
 # 📝 Publications 
 
 <div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
