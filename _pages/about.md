@@ -107,17 +107,26 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 </div>
 </div>
 
-<div class='paper-box' style="width: 25%;margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/NJUPT-logo.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  
+  <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="position: relative;">
+      <div class="badge" style="position: absolute; top: 0; left: 0;">2026 submitted</div>
+      <img src='images/NJUPT-logo.png' alt="sym" style="width: 100%; display: block;">
+    </div>
+  </div>
 
-DART: Diffusion Acceleration via Rectified Temporal Quantization
+  <div class='paper-box-text' style="flex: 1;" markdown="1">
 
-[**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
+  **DART: Diffusion Acceleration via Rectified Temporal Quantization**
 
-**Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Diffusion Model Acceleration.
-- AIGC
-</div>
+  [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
+
+  **Project Coming Soon**
+  - Diffusion Model Acceleration.
+  - AIGC
+
+  </div>
 </div>
 
 # 🏆 Competition
