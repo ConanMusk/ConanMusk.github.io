@@ -37,47 +37,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
 
 # 📖 Educations
 
-<div class='paper-box' style="display: flex; center;align-items: flex-start; margin-bottom: 20px;">
-  
-  <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
-    <div style="position: relative;">
-      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NUDT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
-    </div>
-  </div>
-
-  <div class='paper-box-text' style="center;flex: 1;" markdown="1">
-
- *2023.09 - (2026.06)* 
-
-  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
-
-  Master Degree in Signal and Information Processing.
-
-  </div>
-</div>
-
-<div class='paper-box' style="display: flex; center;align-items: flex-start; margin-bottom: 20px;">
-  
-  <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
-    <div style="position: relative;">
-      <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NJUPT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
-    </div>
-  </div>
-
-  <div class='paper-box-text' style="center;flex: 1;" markdown="1">
-
-  *2019.09 - 2023.06* 
-
-  The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)).
-
-  Bachelor Degree in Information and Communication Engineering.
-
-  </div>
-</div>
-
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none;">
   
   <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
     <img src='images/NUDT-logo.png' alt="NUDT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
@@ -92,7 +52,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none;">
   
   <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
     <img src='images/NJUPT-logo.png' alt="NJUPT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
