@@ -105,13 +105,9 @@ Single-photon 3D imaging with a multi-stage network
 
   <div class='paper-box-text' style="flex: 1;" markdown="1">
 
-  **DART: Diffusion Acceleration via Rectified Temporal Quantization**
-
-  [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
-
-  **Project Coming Soon**
-  - Diffusion Model Acceleration.
-  - AIGC
+- *2023.09 - (2026.06)* 
+  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
+  Master Degree in Signal and Information Processing.
 
   </div>
 </div>
@@ -127,13 +123,9 @@ Single-photon 3D imaging with a multi-stage network
 
   <div class='paper-box-text' style="flex: 1;" markdown="1">
 
-  **DART: Diffusion Acceleration via Rectified Temporal Quantization**
-
-  [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
-
-  **Project Coming Soon**
-  - Diffusion Model Acceleration.
-  - AIGC
+- *2019.09 - 2023.06* 
+  The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
+  Bachelor Degree in Information and Communication Engineering.
 
   </div>
 </div>
