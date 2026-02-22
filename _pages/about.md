@@ -106,8 +106,9 @@ Single-photon 3D imaging with a multi-stage network
   <div class='paper-box-text' style="flex: 1;" markdown="1">
 
 - *2023.09 - (2026.06)* 
+
   School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
-  
+
   Master Degree in Signal and Information Processing.
 
   </div>
@@ -125,6 +126,7 @@ Single-photon 3D imaging with a multi-stage network
   <div class='paper-box-text' style="flex: 1;" markdown="1">
 
 - *2019.09 - 2023.06* 
+
   The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
 
   Bachelor Degree in Information and Communication Engineering.
