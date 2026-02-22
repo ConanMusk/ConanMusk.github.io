@@ -30,27 +30,29 @@ Here is my Curriculum Vitae. [(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRi
 
 # 📖 Educations
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+# 📖 Educations
+
+<div class='paper-box' style="display: flex; align-items: center; padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #eee;">
   <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
     <img src='images/NUDT-logo.png' alt="NUDT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
   </div>
   <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <div style="margin-bottom: 4px;"><em>2023.09 - (2026.06)</em></div>
-    <div style="font-weight: bold;">
-        National University of Defense Technology (<a href="http://yjszs.nudt.edu.cn/index/index.view" target="_blank" style="text-decoration: none; color: #007bff;">NUDT</a>)
+    <div">
+        National University of Defense Technology (<a href="http://yjszs.nudt.edu.cn/index/index.view" target="_blank" style="text-decoration: none;">NUDT</a>)
     </div>
     <div>School of Electronic Science. Master Degree in Signal and Information Processing.</div>
   </div>
 </div>
 
-<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+<div class='paper-box' style="display: flex; align-items: center; padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #eee;">
   <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
     <img src='images/NJUPT-logo.png' alt="NJUPT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
   </div>
   <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <div style="margin-bottom: 4px;"><em>2019.09 - 2023.06</em></div>
-    <div style="font-weight: bold;">
-        Nanjing University of Posts and Telecommunications (<a href="https://scie.njupt.edu.cn/" target="_blank" style="text-decoration: none; color: #007bff;">NJUPT</a>)
+    <div">
+        Nanjing University of Posts and Telecommunications (<a href="https://scie.njupt.edu.cn/" target="_blank" style="text-decoration: none;">NJUPT</a>)
     </div>
     <div>School of Telecommunications and Information Engineering. Bachelor Degree in Information and Communication Engineering.</div>
   </div>
@@ -96,7 +98,7 @@ Single-photon 3D imaging with a multi-stage network
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2025* National Defense Science and Technology Innovation Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2024* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2023* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
