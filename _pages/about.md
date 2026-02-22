@@ -103,6 +103,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
+
 <div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px;">
   
   <div class='paper-box-image' style="flex: 0 0 90px; margin-right: 25px;">
@@ -128,6 +129,36 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
     <div style="font-size: 0.95em; color: #555; margin-bottom: 2px;"><em>2019.09 - 2023.06</em></div>
     <div style="font-weight: bold; font-size: 1.05em;">Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/))</div>
     <div style="font-size: 0.95em;">School of Telecommunications and Information Engineering. Bachelor Degree in Information and Communication Engineering.</div>
+  </div>
+</div>
+
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+  
+  <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src='images/NUDT-logo.png' alt="NUDT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
+  </div>
+
+  <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <div style="font-size: 0.9em; color: #666; line-height: 1.2; margin-bottom: 4px;"><em>2023.09 - (2026.06)</em></div>
+    <div style="font-weight: bold; font-size: 1.05em; line-height: 1.3;">
+        National University of Defense Technology (<a href="http://yjszs.nudt.edu.cn/index/index.view" target="_blank" style="text-decoration: none; color: #007bff;">NUDT</a>)
+    </div>
+    <div style="font-size: 0.95em; line-height: 1.3;">School of Electronic Science. Master Degree in Signal and Information Processing.</div>
+  </div>
+</div>
+
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 15px; background: none; border: none; box-shadow: none;">
+  
+  <div class='paper-box-image' style="flex: 0 0 85px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src='images/NJUPT-logo.png' alt="NJUPT" style="width: 100%; height: auto; box-shadow: none; border: none; display: block;">
+  </div>
+
+  <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <div style="font-size: 0.9em; color: #666; line-height: 1.2; margin-bottom: 4px;"><em>2019.09 - 2023.06</em></div>
+    <div style="font-weight: bold; font-size: 1.05em; line-height: 1.3;">
+        Nanjing University of Posts and Telecommunications (<a href="https://scie.njupt.edu.cn/" target="_blank" style="text-decoration: none; color: #007bff;">NJUPT</a>)
+    </div>
+    <div style="font-size: 0.95em; line-height: 1.3;">School of Telecommunications and Information Engineering. Bachelor Degree in Information and Communication Engineering.</div>
   </div>
 </div>
 
