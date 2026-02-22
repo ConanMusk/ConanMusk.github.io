@@ -127,13 +127,11 @@ Single-photon 3D imaging with a multi-stage network
 
   <div class='paper-box-text' style="flex: 1;" markdown="1">
 
-  **DART: Diffusion Acceleration via Rectified Temporal Quantization**
+ *2023.09 - (2026.06)* 
 
-  [**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
+  School of Electronic Science at National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)). 
 
-  **Project Coming Soon**
-  - Diffusion Model Acceleration.
-  - AIGC
+  Master Degree in Signal and Information Processing.
 
   </div>
 </div>
