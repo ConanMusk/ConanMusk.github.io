@@ -93,6 +93,20 @@ Single-photon 3D imaging with a multi-stage network
 - *2019.09 - 2023.06* 
   The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
   Bachelor Degree in Information and Communication Engineering.
+  
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Efficient.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DART: Diffusion Acceleration via Rectified Temporal Quantization
+
+[**Yinghao Chen**](https://conanmusk.github.io/), [Yeying Jin](https://jinyeying.github.io/), [Ziyang Yan](https://ziyangyan.github.io/), [Prof. Yaowen Fu $^{\dagger}$](https://ieeexplore.ieee.org/author/37530023800) 
+
+**Project Coming Soon**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Diffusion Model Acceleration.
+- AIGC
+</div>
+</div>
+
 
 # 🏆 Competition
 - *2025* 🥇 [1st Prize of Huawei Cup Artificial Intelligence Innovation Contest.](https://www.jianguoyun.com/p/DeSV4eUQmaWFDhi06pwGIAA)
