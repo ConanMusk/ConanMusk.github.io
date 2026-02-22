@@ -94,7 +94,7 @@ Single-photon 3D imaging with a multi-stage network
   The School of Telecommunications and Information Engineering at Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/)). 
   Bachelor Degree in Information and Communication Engineering.
 
-<div class='paper-box' style="width: 60%;margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/NUDT-logo.png' alt="sym" width="60%"></div></div>
+<div class='paper-box' style="width: 20%;margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/NUDT-logo.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DART: Diffusion Acceleration via Rectified Temporal Quantization
@@ -107,7 +107,7 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 </div>
 </div>
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/NJUPT-logo.png' alt="sym" width="60%"></div></div>
+<div class='paper-box' style="width: 25%;margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/NJUPT-logo.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DART: Diffusion Acceleration via Rectified Temporal Quantization
