@@ -77,6 +77,31 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 10px; padding: 5px 0;">
+  
+  <div class='paper-box-image' style="flex: 0 0 100px; margin-right: 15px; text-align: center;">
+    <img src='images/NUDT-logo.png' alt="sym" style="box-shadow: none; width: 80%; max-height: 80px; object-fit: contain; display: block; margin: 0 auto;">
+  </div>
+
+  <div class='paper-box-text' style="flex: 1; font-size: 0.95rem; line-height: 1.4;" markdown="1">
+    <span style="color: #666; font-style: italic;">2023.09 - (2026.06)</span> <br>
+    **National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view))** <br>
+    School of Electronic Science. Master Degree in Signal and Information Processing.
+  </div>
+</div>
+
+<div class='paper-box' style="display: flex; align-items: center; margin-bottom: 10px; padding: 5px 0;">
+  
+  <div class='paper-box-image' style="flex: 0 0 100px; margin-right: 15px; text-align: center;">
+    <img src='images/NJUPT-logo.png' alt="sym" style="box-shadow: none; width: 80%; max-height: 80px; object-fit: contain; display: block; margin: 0 auto;">
+  </div>
+
+  <div class='paper-box-text' style="flex: 1; font-size: 0.95rem; line-height: 1.4;" markdown="1">
+    <span style="color: #666; font-style: italic;">2019.09 - 2023.06</span> <br>
+    **Nanjing University of Posts and Telecommunications ([NJUPT](https://scie.njupt.edu.cn/))** <br>
+    School of Telecommunications and Information Engineering. Bachelor Degree in Information and Communication Engineering.
+  </div>
+</div>
 
 
 # 📝 Publications 
