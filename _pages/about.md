@@ -42,7 +42,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
       <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NUDT-logo.png' alt="sym" style="width: 100%; display: block;">
+      <img src='images/NUDT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
     </div>
   </div>
 
@@ -62,7 +62,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
       <!-- <div class="badge" style="position: absolute; top: 0; left: 0;"></div> -->
-      <img src='images/NJUPT-logo.png' alt="sym" style="width: 100%; display: block;">
+      <img src='images/NJUPT-logo.png' alt="sym" style="box-shadow: none;width: 100%; display: block;">
     </div>
   </div>
 
@@ -77,25 +77,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
-  <tr>
-    <td>
-      <h1>Research Experience</h1>
-    </td>
-  </tr>
-</tbody></table>
-<table width="100%" align="center" border="0" cellpadding="20"><tbody>
-  <tr>
-    <td style="padding:20px;width:25%;vertical-align:middle">
-      <img src="images/NJUPT-logo.png" style="width:100%;text-align: center;" ></td>
-    <td width="75%" valign="center">
-      <h3>ENCODE Lab, Westlake University</h4>
-      <p>2024.05 ~ Present</p>
-      <p>Visiting Student, supervised by Prof. <a href="https://huanwang.tech/">Huan Wang</a></p>
-      Conducted research on on-device text-to-image (T2I) diffusion models, focusing on optimizing the performance of neural networks on mobile devices.
-      <br>
-    </td>
-  </tr>
+
 
 # 📝 Publications 
 
