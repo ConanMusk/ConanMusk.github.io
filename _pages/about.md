@@ -71,7 +71,7 @@ DART: Diffusion Acceleration via Rectified Temporal Quantization
 </div>
 </div>
 
-<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> 2026 submitted</div><img src='images/Derain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -20px"><div class='paper-box-image'><div><div class="badge"> CVPR2026</div><img src='images/Derain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
@@ -96,7 +96,7 @@ Single-photon 3D imaging with a multi-stage network
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# ![alt text](image.png) Honors and Awards 
 - *2025* National Defense Science and Technology Innovation Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2024* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
 - *2023* Academic Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
