@@ -37,7 +37,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
 
 # 📖 Educations
 
-<div class='paper-box' style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div class='paper-box' style="display: flex; center;align-items: flex-start; margin-bottom: 20px;">
   
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
@@ -46,7 +46,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
     </div>
   </div>
 
-  <div class='paper-box-text' style="flex: 1;" markdown="1">
+  <div class='paper-box-text' style="center;flex: 1;" markdown="1">
 
  *2023.09 - (2026.06)* 
 
@@ -57,7 +57,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
   </div>
 </div>
 
-<div class='paper-box' style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div class='paper-box' style="display: flex; center;align-items: flex-start; margin-bottom: 20px;">
   
   <div class='paper-box-image' style="flex: 0 0 150px; margin-right: 20px;">
     <div style="position: relative;">
@@ -66,7 +66,7 @@ Here is my Curriculum Vitae.[(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ
     </div>
   </div>
 
-  <div class='paper-box-text' style="flex: 1;" markdown="1">
+  <div class='paper-box-text' style="center;flex: 1;" markdown="1">
 
   *2019.09 - 2023.06* 
 
