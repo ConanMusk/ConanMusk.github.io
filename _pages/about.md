@@ -36,8 +36,8 @@ Here is my Curriculum Vitae. [(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRi
   </div>
   <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <div style="margin-bottom: 4px;"><em>2023.09 - (2026.06)</em></div>
-    <div style="font-weight: bold;">
-        National University of Defense Technology (<a href="http://yjszs.nudt.edu.cn/index/index.view" target="_blank" style="text-decoration: none; color: #007bff;">NUDT</a>)
+    <div >
+        National University of Defense Technology (<a href="http://yjszs.nudt.edu.cn/index/index.view" target="_blank" style="text-decoration: none;">NUDT</a>)
     </div>
     <div>School of Electronic Science. Master Degree in Signal and Information Processing.</div>
   </div>
@@ -49,8 +49,8 @@ Here is my Curriculum Vitae. [(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRi
   </div>
   <div class='paper-box-text' style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
     <div style="margin-bottom: 4px;"><em>2019.09 - 2023.06</em></div>
-    <div style="font-weight: bold;">
-        Nanjing University of Posts and Telecommunications (<a href="https://scie.njupt.edu.cn/" target="_blank" style="text-decoration: none; color: #007bff;">NJUPT</a>)
+    <div >
+        Nanjing University of Posts and Telecommunications (<a href="https://scie.njupt.edu.cn/" target="_blank" style="text-decoration: none;">NJUPT</a>)
     </div>
     <div>School of Telecommunications and Information Engineering. Bachelor Degree in Information and Communication Engineering.</div>
   </div>
