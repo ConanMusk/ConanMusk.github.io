@@ -26,7 +26,7 @@ My research interest includes **Low-level Vision**, **Multi-modal image/video ge
 Here is my Curriculum Vitae. [(CV)](https://www.jianguoyun.com/p/DRSnEc8QpM6vDRiQ7JwGIAA)
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 That's great news! "[**Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning**](https://conanmusk.github.io/)" being accepted by the optical CVPR2026! A special thanks to Professor [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm), [Yeying Jin](https://jinyeying.github.io/) and [Xiang Chen](https://cschenxiang.github.io/) for their guidance.
+- *2026.02*: &nbsp;🎉🎉💥💥 That's great news! "[**Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning**](https://conanmusk.github.io/)" being accepted by the CVPR 2026 🥳🥳🥳！！! A special thanks to Professor [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm), [Yeying Jin](https://jinyeying.github.io/) and [Xiang Chen](https://cschenxiang.github.io/) for their guidance.
 - *2022.06*: &nbsp;🎉🎉 That's great news! "[**Single-photon 3D imaging with a multi-stage network**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-16-29173&id=481509)" being accepted by the optical journal **Optics Express**! A special thanks to Professor [Qin Wang](https://quantum.njupt.edu.cn/11725/list.htm) and Professor Li Jian for their guidance.
 
 # 📖 Educations
