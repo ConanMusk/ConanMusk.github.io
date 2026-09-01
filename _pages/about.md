@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Yaowen Fu](https://ieeexplore.ieee.org/author/37530023800) and [Prof. Jingyuan Xia](https://www.xiajingyuan.com/). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
+I am a third-year master's student at the School of Electronic Science, National University of Defense Technology ([NUDT](http://yjszs.nudt.edu.cn/index/index.view)), under the supervision of [Prof. Yaowen Fu](https://ieeexplore.ieee.org/author/37530023800). Previously, I obtained my B.Eng in Communication Engineering from the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)) in 2023.
 
 My research interest includes **Low-level Vision**, **Multi-modal image/video generation**, **Inverse Problems** and **Computational Photography**.
 
@@ -85,10 +85,11 @@ Unpaired Deep Image Deraining Using Reward-Guided Self-Reinforcement Learning
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express Accept</div><img src='images/OE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Single-photon 3D imaging with a multi-stage network
+<!-- Single-photon 3D imaging with a multi-stage network
 
 [**Yinghao Chen**$^{*}$](https://conanmusk.github.io/), Jian Li $^{\*}$, Shipeng Xie, [Prof.Qin Wang$^{\dagger}$](https://scie.njupt.edu.cn/)
 
@@ -96,7 +97,7 @@ Single-photon 3D imaging with a multi-stage network
 - A multi-stage single-photon long-distance low signal-to-noise ratio deep learning method has been developed.
 - Single Photon Image
 </div>
-</div>
+</div> --> 
 
 # 🎖️ Honors and Awards
 - *2025* National Defense Science and Technology Innovation Scholarship at [NUDT](http://yjszs.nudt.edu.cn/index/index.view).
@@ -124,8 +125,8 @@ Single-photon 3D imaging with a multi-stage network
 - 🥋 I studied Taekwondo techniques during my undergraduate years.
 - 🛌 Undoubtedly, this is one of my favorite sports, and I spend 9-10 hours a day engaging in it. 😴 🤣
 
-# 💻 Internships
-- *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China.
+<!-- # 💻 Internships
+- *2021.05 - 2023.06*, Prof. Qin Wang's [research group](https://quantum.njupt.edu.cn/11725/list.htm) at Nanjing University of Posts and Telecommunications([NJUPT](https://scie.njupt.edu.cn/)), Nan JIng, China. -->
 
 # 🧑‍🤝‍🧑 My Friends and Collaborators
-- [Xin Lin](https://linxin0.github.io/) , [Xiang Chen](https://cschenxiang.github.io/) , [Jingyuan Xia](https://www.xiajingyuan.com/) , [Shuaifeng Zhi](https://shuaifengzhi.com/) , [Zhenhua Du](https://zanedu.notion.site/Zhenhua-Du-133147251c3a80dc956be719abd9c7f7) , [Chengyu Fang](https://chengyufang.tech/) , [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm) , [Yeying Jin](https://jinyeying.github.io/),[Ziyang Yan](https://ziyangyan.github.io/)
+- [Xin Lin](https://linxin0.github.io/) , [Xiang Chen](https://cschenxiang.github.io/), [Zhenhua Du](https://zanedu.notion.site/Zhenhua-Du-133147251c3a80dc956be719abd9c7f7) , [Chengyu Fang](https://chengyufang.tech/) , [Yanyan Wei](https://faculty.hfut.edu.cn/weiyanyan/zh_CN/index.htm) , [Yeying Jin](https://jinyeying.github.io/),[Ziyang Yan](https://ziyangyan.github.io/)
